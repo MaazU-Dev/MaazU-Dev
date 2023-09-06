@@ -14,6 +14,8 @@ I'm a passionate Flutter app developer with a knack for creating delightful user
 
 Feel free to explore my repositories to see some of my Flutter projects in action. If you have any questions or ideas for collaboration, don't hesitate to get in touch. Let's create amazing Flutter experiences together! 🚀
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazU-Dev&show_icons=true&theme=dark)](https://github.com/MaazU-Dev)
+
 <!--
 MaazU-Dev/MaazU-Dev is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
