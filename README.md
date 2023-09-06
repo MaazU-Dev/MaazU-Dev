@@ -18,6 +18,8 @@ Feel free to explore my repositories to see some of my Flutter projects in actio
 
 [![GitHub Commit Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaazU-Dev)](https://github.com/MaazU-Dev)
 
+<!-- GitHub Commit Activity -->
+![GitHub Commit Activity](https://github.com/yourusername/yourrepository/raw/master/commits.png)
 
 <!--
 MaazU-Dev/MaazU-Dev is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
