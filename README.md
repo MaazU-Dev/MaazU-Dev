@@ -1,5 +1,28 @@
 ### Hi there, I'm Maaz Umar! 👋
 
+<h1>I'm a Flutter Developer</h1>
+
+<p>
+  This text will animate on the screen.
+</p>
+
+<script>
+  const text = document.querySelector("h1");
+
+  function animate() {
+    text.style.opacity = 0;
+    text.style.transform = "translateY(100px)";
+
+    const delay = Math.random() * 2000;
+    setTimeout(function() {
+      text.style.opacity = 1;
+      text.style.transform = "translateY(0px)";
+    }, delay);
+  }
+
+  window.addEventListener("load", animate);
+</script>
+
 I'm a passionate Flutter app developer with a knack for creating delightful user experiences through elegant code and beautiful design. 
 
 🌱 **Currently Learning:** I'm constantly expanding my skill set in Flutter development to stay up-to-date with the latest trends and technologies in the field.
