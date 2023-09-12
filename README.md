@@ -37,7 +37,7 @@ I'm open to collaboration on exciting projects, whether it involves creating a n
 
 Explore my repositories to see examples of my Flutter work in action. Together, we can create exceptional Flutter experiences!
 
-![Your Contributions Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
+![Your Contributions Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaazU-Dev)
 
 
 <!--
