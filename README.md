@@ -36,7 +36,7 @@ I'm open to collaboration on exciting projects, whether it involves creating a n
 - **Email:** [maaz.muawiz220@gmail.com](mailto:maaz.muawiz20@gmail.com)
 
 Explore my repositories to see examples of my Flutter work in action. Together, we can create exceptional Flutter experiences!
-
+{ For now, 3 of them are private, because i am working on them ;) }
 
 
 <!--
