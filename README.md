@@ -32,8 +32,8 @@ I'm open to collaboration on exciting projects, whether it involves creating a n
 
 ## Contact Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/maazumar)
-- **Email:** [maaz@example.com](mailto:maaz@example.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/maaz-umar-5b16b6195/)
+- **Email:** [maaz.muawiz220@gmail.com](mailto:maaz.muawiz20@gmail.com)
 
 Explore my repositories to see examples of my Flutter work in action. Together, we can create exceptional Flutter experiences!
 
