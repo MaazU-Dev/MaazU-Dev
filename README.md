@@ -37,7 +37,6 @@ I'm open to collaboration on exciting projects, whether it involves creating a n
 
 Explore my repositories to see examples of my Flutter work in action. Together, we can create exceptional Flutter experiences!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaazU-Dev)](https://git.io/streak-stats)
 
 
 <!--
