@@ -2,7 +2,7 @@
 
 ## About Me
 
-Greetings! I'm Maaz Umar, a dedicated Flutter Developer with 10 months of hands-on experience. My journey in Flutter development has been a continuous pursuit of excellence, specializing in key areas that define robust and user-friendly mobile applications.
+Greetings! I'm Maaz Umar, a dedicated Flutter Developer with an year of hands-on experience. My journey in Flutter development has been a continuous pursuit of excellence, specializing in key areas that define robust and user-friendly mobile applications.
 
 ## Expertise
 
