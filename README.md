@@ -14,8 +14,6 @@ Greetings! I'm Maaz Umar, a dedicated Flutter Developer with 2 plus years of han
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaazU-Dev&icon=2&color=2)](https://visitcount.itsvg.in)
