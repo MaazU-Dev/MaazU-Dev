@@ -71,12 +71,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/MaazU-Dev/MaazU-Dev/output/snake.svg" alt="Snake animation" />
-</picture>
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
