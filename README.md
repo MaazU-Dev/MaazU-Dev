@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/your-profile-link](https://www.linkedin.com/in/maaz-umar-5b16b6195/)" target="_blank">
+  <a href="https://www.linkedin.com/in/maaz-umar-5b16b6195/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:umaaz7140@@gmail.com" target="_blank">
@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/your-profile-link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="[https://stackoverflow.com/users/your-profile-link](https://stackoverflow.com/users/22139824/maaz)" target="_blank">
+  <a href="https://stackoverflow.com/users/22139824/maaz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
