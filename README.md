@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Maaz Umar<br><br>- 🔭 I’m working as Flutter Developer, having over 2 years of experience<br>- 📚 I have developed an interest in Natural Language Processing and LLMs<br>- ⚡ In my free time I work</p>
+<p align="left">I'm Maaz Umar<br><br>- 🔭 I’m working as Flutter Developer, having over 5 years of experience<br>- 📚 I have developed an interest in Natural Language Processing and LLMs<br>- ⚡ In my free time I work</p>
 
 ###
 
