@@ -13,6 +13,8 @@
   <a href="https://wa.me/923070410997" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
+</div>
+
 <div align="center">
   <h3>📂 Check out my portfolio and past work on:</h3>
   <a href="https://www.upwork.com/freelancers/~01245e6da03b16be9e" target="_blank">
@@ -35,7 +37,7 @@ I'm **Maaz Umar**, a passionate Full-Stack Developer with a drive for creating i
 
 - 🚀 **Mobile Development Expert** with 1.5+ years of hands-on Flutter experience
 - 🔧 **Backend Specialist** utilizing NodeJS, Express, Mongoose, MongoDB, and SQL
-- 💼 **Project Success Story**: Completed 10+ client projects on Fiverr and Upwork
+- 💼 **Project Success Story**: Completed 10+ client projects on [Fiverr](https://www.fiverr.com/maazum) and [Upwork](https://www.upwork.com/freelancers/~01245e6da03b16be9e)
 - 📱 **Mobile App Publisher** with 2 apps live on the App Store and 2 more in testing phase
 - 🔄 **Full-Stack Integration** expert, connecting Flutter frontends with robust backend APIs
 - 🧠 **AI Enthusiast** exploring the convergence of mobile development and artificial intelligence
@@ -110,5 +112,3 @@ I'm **Maaz Umar**, a passionate Full-Stack Developer with a drive for creating i
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MaazU-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
-
-
