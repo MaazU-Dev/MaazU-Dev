@@ -27,11 +27,20 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 👩‍💻 About Me
 
-###
+I'm **Maaz Umar**, a passionate Full-Stack Developer with a drive for creating impactful digital solutions.
 
-<p align="left">I'm Maaz Umar<br><br>- 🔭 I'm working as a Flutter Developer with over 5 years of experience<br>- 📚 I have developed a strong interest in Natural Language Processing and LLMs<br>- 💻 Full-stack developer passionate about creating elegant solutions<br>- 🌐 Exploring the intersection of mobile development and AI<br>- ⚡ In my free time, I contribute to open-source projects</p>
+- 🚀 **Mobile Development Expert** with 1.5+ years of hands-on Flutter experience
+- 🔧 **Backend Specialist** utilizing NodeJS, Express, Mongoose, MongoDB, and SQL
+- 💼 **Project Success Story**: Completed 10+ client projects on Fiverr and Upwork
+- 📱 **Mobile App Publisher** with 2 apps live on the App Store and 2 more in testing phase
+- 🔄 **Full-Stack Integration** expert, connecting Flutter frontends with robust backend APIs
+- 🧠 **AI Enthusiast** exploring the convergence of mobile development and artificial intelligence
+- 🌟 **Open-Source Contributor** dedicated to giving back to the developer community
+- 🔥 **Continuous Learner** constantly expanding my technical toolkit to deliver cutting-edge solutions
+
+*Turning ideas into elegant, functional applications that solve real-world problems.*
 
 ###
 
