@@ -13,15 +13,15 @@
   <a href="https://wa.me/923070410997" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
-</div>
 <div align="center">
+  <h3>📂 Check out my portfolio and past work on:</h3>
   <a href="https://www.upwork.com/freelancers/~01245e6da03b16be9e" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
   <a href="https://www.fiverr.com/maazum" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fiverr logo" />
   </a>
-  </div>
+</div>
 
 ###
 
