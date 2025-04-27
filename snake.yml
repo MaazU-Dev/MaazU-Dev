@@ -22,8 +22,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark&color_snake=#4CAF50&color_dots=#1E1E1E,#39D353,#26A641,#006D32,#0D1117
-          # A green-themed palette that works well in both light and dark modes
+          outputs: dist/snake.svg?palette=github-dark&color_snake=#6E7B8B&color_dots=#1E1E1E,#78A3CF,#5D89BA,#456997,#2A4F6E
+          # Greyish-blue palette with steel blue snake and blue-grey gradient dots
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
