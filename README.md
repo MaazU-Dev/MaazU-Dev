@@ -15,7 +15,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://www.upwork.com/freelancers/maazchen" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01245e6da03b16be9e" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
   <a href="https://www.fiverr.com/maazum" target="_blank">
