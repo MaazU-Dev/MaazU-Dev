@@ -111,7 +111,4 @@ I'm **Maaz Umar**, a passionate Full-Stack Developer with a drive for creating i
   <img src="https://github-profile-trophy.vercel.app/?username=MaazU-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
 
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MaazU-Dev&icon=2&color=10" alt="Visit count" />
-</div>
+
