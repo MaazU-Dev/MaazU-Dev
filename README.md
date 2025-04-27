@@ -33,7 +33,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Maaz Umar**, a passionate Full-Stack Developer with a drive for creating impactful digital solutions.
+I'm **Maaz Umar**, a *Computer Engineer from NUST* and *a passionate Full-Stack Developer* with a drive for creating impactful digital solutions.
 
 - 🚀 **Mobile Development Expert** with 1.5+ years of hands-on Flutter experience
 - 🔧 **Backend Specialist** utilizing NodeJS, Express, Mongoose, MongoDB, and SQL
