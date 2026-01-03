@@ -33,10 +33,10 @@
 
 ## 👩‍💻 About Me
 
-I'm **Maaz Umar**, a *Computer Engineer from NUST* and *a passionate Full-Stack Developer* with a drive for creating impactful digital solutions.
+I'm **Maaz Umar**, a *Computer Engineer from NUST* and *a passionate Flutter|Dart|GoLang Developer* with a drive for creating impactful digital solutions.
 
 - 🚀 **Mobile Development Expert** with 1.5+ years of hands-on Flutter experience
-- 🔧 **Backend Specialist** utilizing NodeJS, Express, Mongoose, MongoDB, and SQL
+- 🔧 **Backend Specialist** utilizing Golang NodeJS, Express, Mongoose, MongoDB, and SQL
 - 💼 **Project Success Story**: Completed 10+ client projects on [Fiverr](https://www.fiverr.com/maazum) and [Upwork](https://www.upwork.com/freelancers/~01245e6da03b16be9e)
 - 📱 **Mobile App Publisher** with 2 apps live on the App Store and 2 more in testing phase
 - 🔄 **Full-Stack Integration** expert, connecting Flutter frontends with robust backend APIs
