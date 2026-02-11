@@ -33,7 +33,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Maaz Umar**, a *Computer Engineer from NUST* and *a passionate Software Engineer (NodeJS, Go, Flutter)* with a drive for creating impactful digital solutions.
+I'm **Maaz Umar**, a *Software Engineer (NodeJS, Go, Flutter)* with a drive for building solutions/systems.
 
 - 🚀 **Software Development Expert** with 1+ years of hands-on Mobile + Backend experience
 - 🔧 **Backend Specialist** utilizing Golang NodeJS, Express, Mongoose, MongoDB, and SQL
