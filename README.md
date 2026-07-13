@@ -37,11 +37,6 @@ I'm **Maaz Umar**, a *Software Engineer (NodeJS, Go, Flutter)* with a drive for 
 
 - 🚀 **Software Development Expert** with 1+ years of hands-on Mobile + Backend experience
 - 🔧 **Backend Specialist** utilizing Golang NodeJS, Express, Mongoose, MongoDB, and SQL
-- 💼 **Project Success Story**: Completed 10+ client projects on [Fiverr](https://www.fiverr.com/maazum) and [Upwork](https://www.upwork.com/freelancers/~01245e6da03b16be9e)
-- 📱 **Mobile App Publisher** with 2 apps live on the App Store and 2 more in testing phase
-- 🔄 **Full-Stack Integration** expert, connecting Flutter frontends with robust backend APIs
-- 🧠 **AI Enthusiast** exploring the convergence of mobile development and artificial intelligence
-- 🔥 **Continuous Learner** constantly expanding my technical toolkit to deliver cutting-edge solutions
 
 *Turning ideas into elegant, functional applications that solve real-world problems.*
 
