@@ -35,7 +35,8 @@
 
 I'm **Maaz Umar**, a *Software Engineer (NodeJS, Go, Flutter)* with a drive for building solutions/systems.
 
-- 🚀 **Software Development Expert** with 1+ years of hands-on Mobile + Backend experience
+- 🚀 **Software Development Expert** with 2+ years of hands-on Mobile + Backend experience
+- 🔧 **Frontend Specialist** utilizing Flutter, and Dart
 - 🔧 **Backend Specialist** utilizing Golang NodeJS, Express, Mongoose, MongoDB, and SQL
 
 *Turning ideas into elegant, functional applications that solve real-world problems.*
